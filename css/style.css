@@ -1,0 +1,27 @@
+body{
+    width: 100%;
+    margin: 0 auto;
+}
+
+header{
+    height: 100px;
+    background-color: #FFC0CB;
+    color: black;
+    text-align: left;
+}
+
+footer{
+    height: 5%;
+    text-align: left;
+    background-color: #FFC0CB;
+    color: black;
+}
+
+section{
+    height: 490px;
+    background-color: #FFC0C0;
+    color: black;
+    text-align: left;
+}
+
+
